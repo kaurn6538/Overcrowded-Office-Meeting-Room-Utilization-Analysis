@@ -25,9 +25,6 @@ This Tableau project was developed as part of a case study challenge to investig
 - 🌀 **Visualization Mode Toggle:** A parameter `Select Visualization` allows switching between Booked vs. Actual utilization views.
 - 🧭 **Tooltip Details:** Hovering over rooms displays more insights such as utilization rate.
 
-## 🖼️ Screenshot
-
-![Meeting Room Utilization - Ground Floor](image.png)
 
 ## 🛠️ Tools Used
 
